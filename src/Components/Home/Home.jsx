@@ -13,7 +13,7 @@ function Home({ characters, handleCardClick }) {
       Welcome travelers to the Andromeda Space Exploration Team! 
       </h5>
       <p>
-      A diverse crew of astronauts, cyborgs, robots, scientists, engineers, aliens, and even a stowaway pirate land on asteroid B-612 and embark on a groundbreaking journey. Our mission? To expand life in the Andromeda Galaxy using the advanced capabilities of the TITAN-5 and ECHO-7 robots. 
+      Aboard the Aquarius Voyager, a diverse crew of astronauts, cyborgs, robots, scientists, engineers, aliens, and even a stowaway pirate land on asteroid B-612 and embark on a groundbreaking journey. Our mission? To expand life in the Andromeda Galaxy using the advanced capabilities of the TITAN-5 and ECHO-7 robots. 
       </p>
       <p>
       However, as we venture into the unknown, we encounter a daunting challenge: the TITAN-5 has been compromised. Now, it is up to our team to uncover the culprit among us, unraveling a mystery that threatens not only the success of our mission, but the safety of all aboard our spacecraft. 
