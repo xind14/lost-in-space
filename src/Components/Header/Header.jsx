@@ -21,11 +21,11 @@ function Header() {
                 Descriptions
               </Link>
             </li>
-            <li className={styles.navItem}>
+            {/* <li className={styles.navItem}>
               <Link to="/costumes" className={styles.navLink}>
                 Costume Ideas
               </Link>
-            </li>
+            </li> */}
           </ul>
         </div>
       </nav>

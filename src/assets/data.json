@@ -1,135 +1,105 @@
 [
   {
     "_id": 1,
-    "image_url": "https://placekitten.com/640/360",
+    "image_url": "https://i.pinimg.com/736x/91/c5/18/91c518ad101ef45151af2f0143cdc112.jpg",
     "name": "TITAN-5",
     "type": "Robot",
     "actor": "Ayana",
     "description": "TITAN-5 emerges as the primary robotic marvel for the Andromeda Space Exploration mission, boasting a pedigree of excellence in robotic engineering. With a background akin to its counterpart ECHO-7, TITAN-5 represents the evolution of robotic technology, having already garnered experience from its previous mission. Serving as the vanguard of exploration, TITAN-5 has ventured beyond Earth's confines, gathering invaluable data about the surrounding planets.",
     "password": "1",
-    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim.",
-    "link1": "https://placekitten.com/640/360",
-    "link2": "https://placekitten.com/640/360",
-    "link3": "https://placekitten.com/640/360"
+    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim."
   },
   {
     "_id": 2,
-    "image_url": "https://placekitten.com/640/360",
+    "image_url": "https://i.pinimg.com/736x/39/24/17/392417cd7d0a4aae4051ef59b316b148.jpg",
     "name": "ECHO-7",
     "type": "Robot",
     "actor": "Xin",
     "description": "ECHO-7 stands as the pinnacle of robotic engineering, designed specifically for the Andromeda Space Exploration mission. As one of two robots built for this groundbreaking endeavor, ECHO-7 represents the culmination of several developments in robotics technology, building upon the advancements pioneered by the Mars rover missions. With state-of-the-art sensors, advanced AI algorithms, and leading-edge processing capabilities, ECHO-7 possesses a wealth of knowledge and information crucial to the success of the mission.",
     "password": "2",
-    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim.",
-    "link1": "https://placekitten.com/640/360",
-    "link2": "https://placekitten.com/640/360",
-    "link3": "https://placekitten.com/640/360"
+    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim."
   },
   {
     "_id": 3,
-    "image_url": "https://placekitten.com/640/360",
+    "image_url": "https://i.pinimg.com/736x/15/64/0f/15640f7f9594ad73edfca98ef73a944f.jpg",
     "name": "Dr. Cameron Taylor",
     "type": "Cyborg Scientist",
     "actor": "Alyssa",
     "description": "Dr. Cameron Taylor emerges as a pioneering figure in cyborg science, embodying the perfect fusion of human resilience and advanced cybernetic enhancements. Her half-robotic nature positions her as an ideal candidate for extended space exploration, as she does not age as fast as a full human, nor does she need the same amount of food and water. With her background in cybernetic engineering from MIT, Dr. Taylor spearheads the forefront of space exploration, leveraging her enhanced capabilities to navigate the challenges of deep space missions. She is a force to be reckoned with and has come too far to let anything get in her way of jeopardizing the mission. ",
     "password": "3",
-    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim.",
-    "link1": "https://placekitten.com/640/360",
-    "link2": "https://placekitten.com/640/360",
-    "link3": "https://placekitten.com/640/360"
+    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim."
   },
   {
     "_id": 4,
-    "image_url": "https://placekitten.com/640/360",
+    "image_url": "https://i.pinimg.com/736x/b9/a1/f8/b9a1f8fadf1a6f12ef3481cea43ebbca.jpg",
     "name": "Captain Astrid Blackstar",
     "type": "Space Pirate",
     "actor": "Ana",
     "description": "Captain Astrid Blackstar is a feared pirate in the Andromeda Galaxy, known for her daring raids on countless space exploration ships. Her capture by the crew marks a turning point in her legendary career. With valuable information about life on asteroid B-612 at her disposal, whether she chooses to cooperate remains uncertain. Her enigmatic demeanor and formidable presence make her a force to be reckoned with, even in captivity. Renowned for her cunning, cleverness, and unmatched intellect, Captain Blackstar can outwit many adversaries and knows the galaxy like the back of her hand.",
     "password": "4",
-    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim.",
-    "link1": "https://placekitten.com/640/360",
-    "link2": "https://placekitten.com/640/360",
-    "link3": "https://placekitten.com/640/360"
+    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim."
   },
   {
     "_id": 5,
-    "image_url": "https://placekitten.com/640/360",
+    "image_url": "https://i.pinimg.com/736x/81/20/23/81202377eb217a01674b5d42d09e79d6.jpg",
     "name": "Phoenix Star",
     "type": "Astronaut",
     "actor": "Lennard",
     "description": "Phoenix Star is a renowned astronaut whose name resonates throughout the cosmos. With a master's degree in Aerospace Engineering from MIT, Phoenix has spent years pushing the boundaries of space exploration. His daring missions have led to groundbreaking discoveries and paved the way for humanity's expansion into the unknown. He excelled in NASA's rigorous training program and was selected for multiple space missions. His exceptional piloting skills and leadership qualities have earned him the nickname 'Phoenix' among his peers. As a seasoned astronaut, he has logged numerous hours in space, contributing to scientific research and exploration endeavors.",
     "password": "5",
-    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim.",
-    "link1": "https://placekitten.com/640/360",
-    "link2": "https://placekitten.com/640/360",
-    "link3": "https://placekitten.com/640/360"
+    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim."
   },
   {
     "_id": 6,
-    "image_url": "https://placekitten.com/640/360",
+    "image_url": "https://i.pinimg.com/736x/da/68/62/da6862cd86be851c1473675b09b90059.jpg",
     "name": "Ace Supernova",
     "type": "Astronaut",
     "actor": "Josh",
     "description": "Ace Supernova is a seasoned astronaut known for his daring space missions and expertise in extravehicular activities. He holds a master's degree in Mechanical Engineering from Stanford University and completed his undergraduate studies at the University of California, Berkeley. Ace’s passion for space exploration led him to pursue a career at NASA, where he excelled in astronaut training and spacewalk simulations. With several successful missions under his belt, Ace is regarded as a trailblazer in space exploration, inspiring future generations of astronauts.",
     "password": "6",
-    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim.",
-    "link1": "https://placekitten.com/640/360",
-    "link2": "https://placekitten.com/640/360",
-    "link3": "https://placekitten.com/640/360"
+    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim."
     
   },
   {
     "_id": 7,
-    "image_url": "https://placekitten.com/640/360",
-    "name": "Zaqar",
+    "image_url": "https://i.pinimg.com/736x/e6/85/2f/e6852fb6829e5f24bf3048651cdb54f2.jpg",
+    "name": "Zaqar and Zalliya",
     "type": "Alien",
     "actor": "Devyn and Karla",
-    "description": "Zaqar is a renowned extraterrestrial explorer from the planet Xelar. She possesses a deep understanding of alien technology and has dedicated herself to the study of space systems. With expertise in advanced alien technology, Zaqar plays a crucial role in collaborating with engineers to study the intricacies of space exploration. Her main focus is on sharing her knowledge of Xelar’s technology with human engineers, facilitating the integration of innovative alien technology into human spacecraft and systems. Zaqar’s expertise and guidance have proven invaluable in advancing the frontiers of space exploration and fostering intergalactic cooperation.",
+    "description": "Zaqar and Zalliya are renowned extraterrestrial explorers from the planet Xelar. The sisters possess a deep understanding of alien technology and have dedicated themselves to the study of space systems. With expertise in advanced alien technology, the pair plays a crucial role in collaborating with engineers to study the intricacies of space exploration. Their main focus is on sharing their knowledge of Xelar’s technology with human engineers, facilitating the integration of innovative alien technology into human spacecraft and systems. Their expertise and guidance have proven invaluable in advancing the frontiers of space exploration and fostering intergalactic cooperation. ",
     "password": "7",
-    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim.",
-    "link1": "https://placekitten.com/640/360",
-    "link2": "https://placekitten.com/640/360",
-    "link3": "https://placekitten.com/640/360"
+    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim."
   },
   {
     "_id": 8,
-    "image_url": "https://placekitten.com/640/360",
+    "image_url": "https://i.pinimg.com/736x/cc/bd/22/ccbd227f4b052b477e4662e408e468fb.jpg",
     "name": "Nyazara",
     "type": "Alien",
     "actor": "Megan",
     "description": "Nyazara is an enigmatic alien scientist hailing from the distant planet of Xelar. With an insatiable curiosity for the cosmos, she pursued advanced studies in astrophysics and quantum mechanics on Xelar. When NASA discovered signs of life on her planet, Nyazara played a pivotal role in establishing communication and collaboration between her species and humans. Recognizing the importance of mutual understanding and cooperation, she agreed with her fellow Xelarians that she would conduct studies on human civilization while humans conduct research on her species. Nyazara's dedication to fostering intergalactic cooperation and understanding has made her a respected figure among both Xelarians and humans alike.",
     "password": "8",
-    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim.",
-    "link1": "https://placekitten.com/640/360",
-    "link2": "https://placekitten.com/640/360",
-    "link3": "https://placekitten.com/640/360"
+    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim."
 
   },
   {
     "_id": 9,
-    "image_url": "https://placekitten.com/640/360",
+    "image_url": "https://i.pinimg.com/736x/c7/b1/9c/c7b19c1f5eaa1de5dd31214b35d56661.jpg",
     "name": "Fletcher Bolt",
     "type": "Martian Engineer",
     "actor": "Max",
     "description": "Fletcher Bolt emerges as a trailblazing figure, representing the fifth generation of humans born and raised on Mars. With his unique heritage as the first hybrid human to travel from Mars to Earth, Fletcher brings a wealth of experience to the field of aerospace engineering. His Martian upbringing is evident in his distinctive red skin, a testament to his roots on the Red Planet. Despite the challenges of adapting to Earth's environment, Fletcher's credentials as an aerospace engineer from MIT, a graduate of the Mars Institute of Technology, and his experience with NASA propel him to the forefront of space exploration on Earth.",
     "password": "9",
-    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim.",
-    "link1": "https://placekitten.com/640/360",
-    "link2": "https://placekitten.com/640/360",
-    "link3": "https://placekitten.com/640/360"
+    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim."
   },
   {
     "_id": 10,
-    "image_url": "https://placekitten.com/640/360",
+    "image_url": "https://i.pinimg.com/736x/64/28/70/64287050c4730d958ba9a5a5f73f82f6.jpg",
     "name": "Tanner Rivet",
     "type": "Engineer",
     "actor": "Jay",
     "description": "Tanner Rivet is a resilient aerospace engineer, known for his unwavering determination and innovative spirit. During a perilous space mission, he faced adversity head-on, losing his right eye and right arm in a tragic accident. However, with the aid of Dr. Taylor's groundbreaking advancements in cybernetics, Tanner received a remarkable robot eye and arm, allowing him to continue his work with newfound determination. Despite his physical setbacks, Tanner's passion for space exploration burns brighter than ever, driving him to overcome any obstacle in his path and make invaluable contributions to the field.",
     "password": "10",
-    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim.",
-    "link1": "https://placekitten.com/640/360",
-    "link2": "https://placekitten.com/640/360",
-    "link3": "https://placekitten.com/640/360"
+    "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim."
 
   }
 ]
