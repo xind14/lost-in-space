@@ -12,7 +12,6 @@ import Script from "./Components/Script/Script.jsx";
 import Header from "./Components/Header/Header.jsx";
 import Description from "./Components/Description/Description.jsx";
 import charactersData from "./assets/data.json";
-import Costume from "./Components/Costume/Costume.jsx";
 import "./App.css";
 
 function App() {
@@ -24,8 +23,7 @@ function App() {
   const [showFormModal, setShowFormModal] = useState(false);
 
 
-  const navigate = useNavigate(); // Use useNavigate hook to get navigation function
-
+  const navigate = useNavigate(); 
   const handleCardClick = (character) => {
     setSelectedCharacter(character);
     setShowModal(true);
@@ -72,7 +70,7 @@ function App() {
       <Header />
       <Routes>
         <Route exact path="/" element={<Home characters={charactersData} handleCardClick={handleCardClick} />} />
-        <Route exact path="/costumes" element={<Costume characters={charactersData} />} />
+        {/* <Route exact path="/costumes" element={<Costume characters={charactersData} />} /> */}
         <Route exact path="/scripts" element={<Script character={selectedCharacter} />} />
         <Route exact path="/descriptions" element={<Description characters={charactersData} />} />
       </Routes>
