@@ -33,7 +33,7 @@ import styles from './description.module.css';
 function Description({ characters }) {
   return (
     <div className={styles.backgroundContainer}>
-      <Carousel className={styles.carousel}>
+      <Carousel className={styles.carousel} interval={null}>
         {characters.map((character, index) => (
           <Carousel.Item key={index} className={styles.carouselItem}>
             <div>

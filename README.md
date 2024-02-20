@@ -1,8 +1,14 @@
-# React + Vite
+# Lost in Space
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Author: Xin Deng
 
-Currently, two official plugins are available:
+### Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project entails the development of a compact, personalized website serving as a murder mystery game manual. The website encompasses the game's mission, gameplay instructions, and detailed character descriptions. Additionally, it functions as an interactive component of the game, where participants access their assigned character's script via a personal passkey tailored to their role.
+
+[Link to Website](https://andromeda3096.netlify.app/)
+
+### Resources/Links
+
+- chatGPT
+- [AI Generator Character Photos](https://www.chipling.xyz/playground)

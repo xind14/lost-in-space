@@ -64,7 +64,7 @@
     "_id": 7,
     "image_url": "https://i.pinimg.com/736x/e6/85/2f/e6852fb6829e5f24bf3048651cdb54f2.jpg",
     "name": "Zaqar and Zalliya",
-    "type": "Alien",
+    "type": "Aliens",
     "actor": "Devyn and Karla",
     "description": "Zaqar and Zalliya are renowned extraterrestrial explorers from the planet Xelar. The sisters possess a deep understanding of alien technology and have dedicated themselves to the study of space systems. With expertise in advanced alien technology, the pair plays a crucial role in collaborating with engineers to study the intricacies of space exploration. Their main focus is on sharing their knowledge of Xelar’s technology with human engineers, facilitating the integration of innovative alien technology into human spacecraft and systems. Their expertise and guidance have proven invaluable in advancing the frontiers of space exploration and fostering intergalactic cooperation. ",
     "password": "7",
@@ -95,9 +95,9 @@
     "_id": 10,
     "image_url": "https://i.pinimg.com/736x/64/28/70/64287050c4730d958ba9a5a5f73f82f6.jpg",
     "name": "Tanner Rivet",
-    "type": "Engineer",
+    "type": "Cyborg Engineer",
     "actor": "Jay",
-    "description": "Tanner Rivet is a resilient aerospace engineer, known for his unwavering determination and innovative spirit. During a perilous space mission, he faced adversity head-on, losing his right eye and right arm in a tragic accident. However, with the aid of Dr. Taylor's groundbreaking advancements in cybernetics, Tanner received a remarkable robot eye and arm, allowing him to continue his work with newfound determination. Despite his physical setbacks, Tanner's passion for space exploration burns brighter than ever, driving him to overcome any obstacle in his path and make invaluable contributions to the field.",
+    "description": "Tanner Rivet is a resilient aerospace engineer, known for his unwavering determination and innovative spirit. During a perilous space mission, he faced adversity head-on, losing his left eye and left arm in a tragic accident. However, with the aid of Dr. Taylor's groundbreaking advancements in cybernetics, Tanner received a remarkable robot eye and arm, allowing him to continue his work with newfound determination. Despite his physical setbacks, Tanner's passion for space exploration burns brighter than ever, driving him to overcome any obstacle in his path and make invaluable contributions to the field.",
     "password": "10",
     "script": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim."
 

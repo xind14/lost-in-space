@@ -8,9 +8,21 @@ function Home({ characters, handleCardClick }) {
     <>
     <div className={styles.mission}>
       <h1 className={styles.heading}>The Mission</h1>
+      <div className={styles.content}>
+         <h5>
+      Welcome travelers to the Andromeda Space Exploration Team! 
+      </h5>
       <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque id diam vel quam elementum pulvinar etiam. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. At in tellus integer feugiat scelerisque varius morbi enim.
+      A diverse crew of astronauts, cyborgs, robots, scientists, engineers, aliens, and even a stowaway pirate land on asteroid B-612 and embark on a groundbreaking journey. Our mission? To expand life in the Andromeda Galaxy using the advanced capabilities of the TITAN-5 and ECHO-7 robots. 
       </p>
+      <p>
+      However, as we venture into the unknown, we encounter a daunting challenge: the TITAN-5 has been compromised. Now, it is up to our team to uncover the culprit among us, unraveling a mystery that threatens not only the success of our mission, but the safety of all aboard our spacecraft. 
+      </p>
+      <p>
+      Together, we must navigate the treacherous depths of space, overcome obstacles, and confront our own suspicions to ensure the continued exploration and prosperity of the Andromeda Galaxy.
+      </p>
+      </div>
+     
 
 
     </div>
