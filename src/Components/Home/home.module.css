@@ -12,6 +12,10 @@
   /* marginTop: 30px; */
   background: center;
 }
+h5{
+  font-weight: 800;
+  margin-bottom: 20px;
+}
 
 /* .card-img {
 
@@ -23,7 +27,7 @@
   color: white;
 }
 
-.mission p {
+.content {
   color: white;
   border: 1px solid #ccc;
   border-radius: 8px;
@@ -36,7 +40,7 @@
 
 /* Media Query for Smaller Screens */
 @media screen and (max-width: 768px) {
-  .mission p {
+  .content {
     max-width: 90%; /* Adjust the maximum width for smaller screens */
   }
 }
