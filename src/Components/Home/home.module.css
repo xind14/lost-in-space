@@ -1,0 +1,42 @@
+.heading {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.card {
+  cursor: pointer;
+  border: 3px solid white;
+  /* borderRadius: 8px; */
+  /* padding: 10px; */
+  /* marginTop: 30px; */
+  background: center;
+}
+
+/* .card-img {
+
+} */
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}
+
+.mission p {
+  color: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin-top: 30px;
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Media Query for Smaller Screens */
+@media screen and (max-width: 768px) {
+  .mission p {
+    max-width: 90%; /* Adjust the maximum width for smaller screens */
+  }
+}

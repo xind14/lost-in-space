@@ -1,0 +1,57 @@
+.costumeTable {
+  cursor: pointer; 
+  border: 3px solid white;
+   /* borderRadius: 8px;  */
+   /* padding: 10px; */
+   /* marginTop: 30px; */
+   /* background: center */
+}
+
+
+.costumeTable {
+  background-color: transparent; 
+  margin-top: 2em;
+  padding: 2em;
+
+  /* width: 100vh; */
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+.costumeTable thead th,
+.costumeTable tbody td {
+  background-color: rgba(255, 255, 255, 0); 
+  color: white;
+  
+}
+
+/* .costumeTable  tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0); 
+  color: white;
+} */
+
+
+.costumeLink {
+  color: white; /* Set link color to white */
+  text-decoration: none;
+}
+
+.costumeLink:hover {
+  text-decoration: underline; 
+}
+
+.costumeTable thead th{
+  font-size: 1.5em;
+}
+
+.character{
+  font-size: 1.5em;
+}
+
+@media screen and (max-width: 768px) {
+  .costumeTable {
+    /* Adjusted width for smaller screens */
+    /* width: 50%; */
+    max-width: 100%; /* Added to ensure it's responsive */
+  }
+}
